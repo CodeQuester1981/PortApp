@@ -1,0 +1,7 @@
+.down {
+    color: rgb(138, 137, 137);
+}
+
+.down:hover {
+    color: rgb(173, 52, 52);
+}
